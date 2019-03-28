@@ -1,7 +1,8 @@
 #!/usr/bin/python
 import socket
 
-#Create an array of buffers, while incrementing them.
+#Change the ip & port of victims computer 
+#You're creating an array of buffers, while incrementing them.
 
 buffer=["A"]
 counter=100
